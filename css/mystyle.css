@@ -1,0 +1,31 @@
+header{
+    background-color: #a2d2ff;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px;
+    height: 8vh;
+    width: 100%;
+}
+.text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 35px;
+    background-color: #b5d6d6;
+
+}
+.ja{
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+ }
+.flex-text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 20px;
+    padding: 0%;
+}
